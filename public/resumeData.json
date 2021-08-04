@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Andrew Yip",
+    "occupation": "Software Engineer, Entrepreneur, and Investor",
+    "description": "Feel free to reach out",
+    "image": "profilepic.jpg",
+    "bio": "Born and raised in Hawaii. ",
+    "contactmessage": "Reach out to me by sending me a message. ",
+    "email": "andrew_yip@redlands.edu",
+    "phone": "909-793-2121",
+    "address": {
+      "street": "1267 E Colton Ave, Appleton Hall",
+      "city": "Redlands",
+      "state": "California",
+      "zip": "92373"
+    },
+    "website": "https://www.linkedin.com/in/andrewayip",
+    "resumedownload": "https://www.linkedin.com/in/andrewayip",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/andrewayip",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/andrew-yip",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some of my skills.",
+    "education": [
+      {
+        "school": "University of Redlands",
+        "degree": "B.S Computer Science, Minors: Physics & Mathematics",
+        "graduated": "May 2022",
+        "description": "GPA: 3.721, Project Manager for Google Developer Student Club, Team Captain for Division III Men's Tennis Team, Hawaii Club, Physics Club, Math Club, Hawaii Club, Pi Mu Epsilon National Honors Mathematics Society, National Society for Leadership and Success, Students for the Exploration and Development of Space (SEDS)"
+      }
+    ],
+    "work": [
+      {
+        "company": "ARM",
+        "title": "Software Engineering Intern",
+        "years": "May 2021 - August 2021",
+        "description": "Benchmarked TimescaleDB across multiple architectures (Intel, AMD, and ARM) on Amazon Web Services instances, and types. Scaled the deployment of TimescaleDB on AWS instances from 8GB to 500 GB in order to capture a large data set of benchmark results. Discovered that certain packages necessary to easily deploy TimescaleDB were not readily available on Ubuntu for ARM. Successfully built these missing packages for ARM by modifying their respective source packages downloaded from Launchpad PPA. Summarized the results for TimescaleDB benchmarks on Intel, AMD, and ARM architectures and recorded them on JIRA (Project Management tool), SOAR (Solutions Assessment Request), and Sharepoint. Gained exposure and valuable insights into Linux architectures, Debian packaging and build system, and cloud computing infrastructure."
+      },
+      {
+        "company": "Traits AI",
+        "title": "Software Engineering Intern",
+        "years": "November 2020 - March 2021",
+        "description": "Developed a cross platform mobile app for an AI avatar along side the app development team utilizing the Flutter SDK in an agile development environment. Application can be found in the app store here: https://apps.apple.com/us/app/secret-satoshi/id1548397552"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "Javascript",
+        "level": "50%"
+      },
+      {
+        "name": "Flutter",
+        "level": "50%"
+      },
+      {
+        "name": "React.js",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID19 Invaders",
+        "category": "A mock up game for Space Invaders",
+        "image": "covid19_invaders.png",
+        "url": "https://github.com/andrew-yip/covid19-invaders-python-game"
+      },
+      {
+        "title": "RC Bluetooth Car",
+        "category": "Powered by Arduino",
+        "image": "rc_car.png",
+        "url": "https://github.com/andrew-yip/arduino-remote-control-bluetooth-car"
+      },
+      {
+        "title": "Android Apps",
+        "category": "All my Android apps",
+        "image": "android.jpg",
+        "url": "https://github.com/andrew-yip/android-applications"
+      },
+      {
+        "title": "Full Stack Ecommerce Mobile App",
+        "category": "Mockup mobile app for Ebay/Amazon/Etsy",
+        "image": "ecommerce_app.png",
+        "url": "https://github.com/andrew-yip/yip-enterprises-mobile-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Andrew was one of the most diligent team members to work at Traits AI. He worked on the Mobile Dev team as an intern and was a top performer. He was always positive and upbeat, adding energy to our team meetings. I could always count on him to complete his work on time, check in regularly, and be proactive about asking how else he could help. He worked well with others and was always friendly and considerate of his teammates. His ability to quickly learn new APIs and coding frameworks demonstrates his intelligence and technical skills. My only complaint is that he couldn’t have worked with us longer! Andrew will make a valuable addition to your team and I highly recommend him.",
+        "user": "Brandon Bosse, CEO - Traits AI"
+      },
+      {
+        "text": "Available on Linkedin. ",
+        "user": "Manoj Iyer, Pricipal Solutions Engineer - ARM"
+      }
+    ]
+  }
+}
