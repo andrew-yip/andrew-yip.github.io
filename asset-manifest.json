@@ -1,10 +1,10 @@
 {
-  "main.css": "/static/css/main.52d1146d.chunk.css",
-  "main.js": "/static/js/main.0e7ebdeb.chunk.js",
-  "main.js.map": "/static/js/main.0e7ebdeb.chunk.js.map",
-  "static/js/1.29e4e3f0.chunk.js": "/static/js/1.29e4e3f0.chunk.js",
-  "static/js/1.29e4e3f0.chunk.js.map": "/static/js/1.29e4e3f0.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html"
+  "main.css": "/public/index.html/static/css/main.52d1146d.chunk.css",
+  "main.js": "/public/index.html/static/js/main.e3e67aa4.chunk.js",
+  "main.js.map": "/public/index.html/static/js/main.e3e67aa4.chunk.js.map",
+  "static/js/1.29e4e3f0.chunk.js": "/public/index.html/static/js/1.29e4e3f0.chunk.js",
+  "static/js/1.29e4e3f0.chunk.js.map": "/public/index.html/static/js/1.29e4e3f0.chunk.js.map",
+  "runtime~main.js": "/public/index.html/static/js/runtime~main.bda78a6e.js",
+  "runtime~main.js.map": "/public/index.html/static/js/runtime~main.bda78a6e.js.map",
+  "index.html": "/public/index.html/index.html"
 }
